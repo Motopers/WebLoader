@@ -10,8 +10,8 @@ GUI-приложение для скачивания медиаконтента 
 Откройте командную строку (cmd) или PowerShell и выполните:
 
 ```bash
-git clone https://github.com/motopers/WebLoader.git
-&& cd WebLoader
+git clone https://github.com/motopers/WL.git
+&& cd WL
 ```
 
 ### Шаг 2: Запуск
